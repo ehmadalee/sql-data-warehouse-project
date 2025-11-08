@@ -10,7 +10,7 @@ It demonstrates **industry-standard practices** in **data engineering, modeling,
 
 This project follows the **Medallion Architecture** pattern — **Bronze**, **Silver**, and **Gold** layers — to ensure scalability, reliability, and clarity in data flow.
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](C:\Users\temp\Downloads\f78e076e5b83435d84c6b6af75d8a679\sql-data-warehouse-project\docs/data_architecture.png)
 
 1. **Bronze Layer** – Ingests raw data as-is from source systems (ERP & CRM) into SQL Server.  
 2. **Silver Layer** – Cleans, standardizes, and transforms data to ensure consistency and quality.  
